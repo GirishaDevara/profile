@@ -15,7 +15,7 @@
 	text-align: center;
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
 	border-radius: 10px 0px;
-	height: 350px;
+	height: 500px;
 }
 
 .role{
@@ -23,9 +23,14 @@
 }
 
 .profile{
-	width: 40%;
+	width: 70%;
 	border: 1px solid #ddd;
 	border-radius: 50%;
+}
+
+.logo{
+	width: 2%;
+	border: 1px solid #ddd;
 }
 
 .link{
@@ -36,7 +41,7 @@
 }
 
 .info{
-	width: 5%;
+	width: 2%;
 }
 
 .contact{
