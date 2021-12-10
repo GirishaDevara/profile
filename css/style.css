@@ -1,10 +1,10 @@
 .parent{
 	display: flex;
 	flex-direction: row;
-	background-color: #95efe017;
+	background-color: #15a9902b;
 	flex-wrap: wrap;
 	justify-content: center;
-	color: #5d6d7e;
+	color: #000000;
 }
 
 .child{
